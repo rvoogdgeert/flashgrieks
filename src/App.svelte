@@ -96,7 +96,7 @@
         {
             id: 20,
             question: "προς",
-            answer: "naar(toe), tot",
+            answer: "naar(toe)",
         },
         {
             id: 21,
@@ -131,7 +131,7 @@
         {
             id: 27,
             question: "εις",
-            answer: "naar, naar binnen, tot",
+            answer: "naar",
         },
         {
             id: 28,
@@ -152,7 +152,7 @@
         {
             id: 31,
             question: "τουτο",
-            answer: "dit, dat",
+            answer: "dit",
         },
         {
             id: 32,
@@ -252,7 +252,7 @@
         {
             id: 51,
             question: "τι...",
-            answer: "wat, waarom",
+            answer: "wat",
         },
         {
             id: 52,
@@ -272,7 +272,7 @@
         {
             id: 55,
             question: "νεος, νεα, νεον",
-            answer: "nieuw, jong",
+            answer: "nieuw",
         },
         {
             id: 56,
