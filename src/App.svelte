@@ -34,11 +34,6 @@
             answer: "slaaf",
         },
         {
-            id: 7,
-            question: "τι…",
-            answer: "waarom?",
-        },
-        {
             id: 8,
             question: "εχει",
             answer: "heeft",
