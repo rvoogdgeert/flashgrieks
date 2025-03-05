@@ -376,7 +376,7 @@
 
 <main>
     <div class="container">
-        <h1>Flash Cards Luca</h1>
+        <h1>Flash Cards Grieks</h1>
 
         <div class="score-container">
             <p>Points: {points} (Attempted: {attempted})</p>
