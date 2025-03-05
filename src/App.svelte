@@ -75,8 +75,234 @@
         },
         {
             id: 15,
-            question: "εισι(ν)",
-            answer: "zijn",
+            question: "φερει",
+            answer: "draagt",
+        },
+        {
+            id: 16,
+            question: "φερουσι(ν)",
+            answer: "dragen",
+        },
+        {
+            id: 17,
+            question: "το θηπριον",
+            answer: "wild dier",
+        },
+        {
+            id: 18,
+            question: "βαινει",
+            answer: "gaat",
+        },
+        {
+            id: 19,
+            question: "βαινουσι(ν)",
+            answer: "gaan",
+        },
+        {
+            id: 20,
+            question: "προς",
+            answer: "naar(toe), tot",
+        },
+        {
+            id: 21,
+            question: "αλλα, αλλ᾽",
+            answer: "maar",
+        },
+        {
+            id: 22,
+            question: "ουτως, ουτω",
+            answer: "zo",
+        },
+        {
+            id: 23,
+            question: "φευγει",
+            answer: "vlucht",
+        },
+        {
+            id: 24,
+            question: "φευγουσι(ν)",
+            answer: "vluchten",
+        },
+        {
+            id: 25,
+            question: "μαχη",
+            answer: "gevecht",
+        },
+        {
+            id: 26,
+            question: "νυν",
+            answer: "nu",
+        },
+        {
+            id: 27,
+            question: "εις",
+            answer: "naar, naar binnen, tot",
+        },
+        {
+            id: 28,
+            question: "και",
+            answer: "en",
+        },
+        {
+            id: 29,
+            question: "λαμβανει",
+            answer: "neemt",
+        },
+        {
+            id: 30,
+            question: "λαμβανουσι(ν)",
+            answer: "nemen",
+        },
+
+        {
+            id: 31,
+            question: "τουτο",
+            answer: "dit, dat",
+        },
+        {
+            id: 32,
+            question: "ποιει",
+            answer: "doet",
+        },
+        {
+            id: 33,
+            question: "ποιουσι(ν)",
+            answer: "doen",
+        },
+        {
+            id: 34,
+            question: "ο δεσπωτης",
+            answer: "heerser",
+        },
+        {
+            id: 35,
+            question: "γαρ",
+            answer: "want",
+        },
+        {
+            id: 36,
+            question: "ο φιλος",
+            answer: "vriend",
+        },
+        {
+            id: 37,
+            question: "ενθαυτα",
+            answer: "daar",
+        },
+        {
+            id: 38,
+            question: "μεγας, μαγαλη, μεγα",
+            answer: "groot",
+        },
+        {
+            id: 39,
+            question: "δεινος, δεινη, δεινον",
+            answer: "verschikkelijk",
+        },
+        {
+            id: 40,
+            question: "φοβερος, φοβερα, φεβερον",
+            answer: "angstaanjagend",
+        },
+        {
+            id: 41,
+            question: "μεν",
+            answer: "tweede zin",
+        },
+        {
+            id: 42,
+            question: "κεφαλη",
+            answer: "hoofd",
+        },
+        {
+            id: 43,
+            question: "θνητος",
+            answer: "sterfelijk",
+        },
+        {
+            id: 44,
+            question: "αθανατος",
+            answer: "onsterfelijk",
+        },
+        {
+            id: 45,
+            question: "ζητει",
+            answer: "zoekt",
+        },
+        {
+            id: 46,
+            question: "ευρισκει",
+            answer: "vindt",
+        },
+        {
+            id: 47,
+            question: "μακρος, μακρα, μακρον",
+            answer: "lang",
+        },
+        {
+            id: 48,
+            question: "επειτα",
+            answer: "daarna",
+        },
+        {
+            id: 49,
+            question: "ουδεν",
+            answer: "niets",
+        },
+        {
+            id: 50,
+            question: "μια",
+            answer: "een",
+        },
+        {
+            id: 51,
+            question: "τι...",
+            answer: "wat, waarom",
+        },
+        {
+            id: 52,
+            question: "πρωτον μεν..., επαιτα δε",
+            answer: "eerst daarna",
+        },
+        {
+            id: 53,
+            question: "αποκτεινει",
+            answer: "doodt",
+        },
+        {
+            id: 54,
+            question: "καλει",
+            answer: "roept",
+        },
+        {
+            id: 55,
+            question: "νεος, νεα, νεον",
+            answer: "nieuw, jong",
+        },
+        {
+            id: 56,
+            question: "αλλοσ, αλλη, αλλο",
+            answer: "ander",
+        },
+        {
+            id: 57,
+            question: "εκαστοσ, εκαστη, εκαστον",
+            answer: "ieder",
+        },
+        {
+            id: 58,
+            question: "αυτικα",
+            answer: "meteen",
+        },
+        {
+            id: 59,
+            question: "η πετρα",
+            answer: "rots",
+        },
+        {
+            id: 60,
+            question: "κρυπτει",
+            answer: "verbergt",
         },
     ];
 
