@@ -84,7 +84,7 @@
     let shuffledCards = [];
 
     // Fisher-Yates shuffle algorithm function
-    function shuffleArray(array) {
+    function shuffleArray(array: any) {
         // Create a copy of the original array to avoid modifying it
         const arrayCopy = [...array];
         // Start from the last element and swap it with a randomly selected element
@@ -122,7 +122,7 @@
         }
     }
     // Function to update points when an answer is submitted
-    function handleAnswerSubmit(event) {
+    function handleAnswerSubmit(event: any) {
         const isCorrect = event.detail.isCorrect;
         attempted++;
 
