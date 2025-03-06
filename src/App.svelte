@@ -192,7 +192,7 @@
         {
             id: 39,
             question: "δεινος, δεινη, δεινον",
-            answer: "verschikkelijk",
+            answer: "verschrikkelijk",
         },
         {
             id: 40,
