@@ -299,6 +299,101 @@
             question: "κρυπτει",
             answer: "verbergt",
         },
+        {
+            id: 60,
+            question: "η βασιλεια",
+            answer: "koningin",
+        },
+        {
+            id: 61,
+            question: "μαλα",
+            answer: "erg",
+        },
+        {
+            id: 62,
+            question: "ανδρειος",
+            answer: "dapper",
+        },
+        {
+            id: 63,
+            question: "καλος",
+            answer: "mooi",
+        },
+        {
+            id: 64,
+            question: "το δωρον",
+            answer: "geschenk",
+        },
+        {
+            id: 65,
+            question: "ο πολεμος",
+            answer: "oorlog",
+        },
+        {
+            id: 66,
+            question: "φιλεω",
+            answer: "houden van",
+        },
+        {
+            id: 67,
+            question: "φιλος",
+            answer: "geliefd",
+        },
+        {
+            id: 68,
+            question: "θαυμαζω",
+            answer: "bewonderen",
+        },
+        {
+            id: 69,
+            question: "ουν",
+            answer: "dan",
+        },
+        {
+            id: 70,
+            question: "αιτεω",
+            answer: "vragen",
+        },
+        {
+            id: 71,
+            question: "εγω",
+            answer: "ik",
+        },
+        {
+            id: 72,
+            question: "επιθυμεω",
+            answer: "verlangen",
+        },
+        {
+            id: 73,
+            question: "εθελω",
+            answer: "willen",
+        },
+        {
+            id: 74,
+            question: "συ",
+            answer: "jij",
+        },
+        {
+            id: 75,
+            question: "επι",
+            answer: "op af",
+        },
+        {
+            id: 76,
+            question: "πεμπω",
+            answer: "sturen",
+        },
+        {
+            id: 77,
+            question: "ο εταιρος",
+            answer: "vriend",
+        },
+        {
+            id: 78,
+            question: "πολλοι",
+            answer: "veel",
+        },
     ];
 
     // Create a shuffled version of the flashcards
@@ -357,8 +452,8 @@
                 }, 2000);
             }
         } else {
-            // No points given for incorrect answers
-            
+            points--; // Subtract 1 point for incorrect answer
+
             // Set a 5-second delay for incorrect answers before moving to the next card
             if (currentCardIndex < shuffledCards.length - 1) {
                 setTimeout(() => {
