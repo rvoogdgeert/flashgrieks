@@ -452,7 +452,7 @@
                 }, 2000);
             }
         } else {
-            points--; // Subtract 1 point for incorrect answer
+            // No point deduction for incorrect answers
 
             // Set a 5-second delay for incorrect answers before moving to the next card
             if (currentCardIndex < shuffledCards.length - 1) {
