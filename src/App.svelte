@@ -252,7 +252,7 @@
         {
             id: 50,
             question: "τι...",
-            answer: "wat",
+            answer: "waarom",
         },
         {
             id: 51,
@@ -357,8 +357,8 @@
                 }, 2000);
             }
         } else {
-            points--; // Subtract 1 point for incorrect answer
-
+            // No points given for incorrect answers
+            
             // Set a 5-second delay for incorrect answers before moving to the next card
             if (currentCardIndex < shuffledCards.length - 1) {
                 setTimeout(() => {
