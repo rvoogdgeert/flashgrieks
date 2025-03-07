@@ -96,7 +96,7 @@
         {
             id: 19,
             question: "προς",
-            answer: "naar(toe)",
+            answer: "naar",
         },
         {
             id: 20,
