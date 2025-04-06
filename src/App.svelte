@@ -394,66 +394,66 @@
           question: "πολλοί",
           answer: "veel",
         },
-        //{
-        //    id: 79,
-        //    question: "ἐν",
-        //    answer: "in, op, bij",
-        //},
-        //{
-        //    id: 80,
-        //    question: "ἡ οἰκία",
-        //    answer: "huis",
-        //},
-        //{
-        //    id: 81,
-        //    question: "...τε καί...",
-        //    answer: "en",
-        //},
-        //{
-        //    id: 82,
-        //    question: "αὐτῷ",
-        //    answer: "hem",
-        //},
-        //{
-        //    id: 83,
-        //    question: "λέγω",
-        //    answer: "zeggen",
-        //},
-        //{
-        //    id: 84,
-        //    question: "ἐνθάδε",
-        //    answer: "hierheen",
-        //},
-        //{
-        //    id: 85,
-        //    question: "ἥκω",
-        //    answer: "komen",
-        //},
-        //{
-        //    id: 86,
-        //    question: "αὐτῇ",
-        //    answer: "haar",
-        //},
-        //{
-        //    id: 87,
-        //    question: "ὅτι",
-        //    answer: "dat, omdat",
-        //},
-        //{
-        //    id: 88,
-        //    question: "σέ",
-        //    answer: "jou, je, u",
-        //},
-        //{
-        //    id: 89,
-        //    question: "σός",
-        //    answer: "jouw, uw",
-        //},
-        //{
-        //    id: 90,
-        //    question: "μοί",
-        //    answer: "mij, me",
-        //},
+        {
+            id: 79,
+            question: "ἐν",
+            answer: "in, op, bij",
+        },
+        {
+            id: 80,
+            question: "ἡ οἰκία",
+            answer: "huis",
+        },
+        {
+            id: 81,
+            question: "...τε καί...",
+            answer: "en",
+        },
+        {
+            id: 82,
+            question: "αὐτῷ",
+            answer: "hem",
+        },
+        {
+            id: 83,
+            question: "λέγω",
+            answer: "zeggen",
+        },
+        {
+            id: 84,
+            question: "ἐνθάδε",
+            answer: "hierheen",
+        },
+        {
+            id: 85,
+            question: "ἥκω",
+            answer: "komen",
+        },
+        {
+            id: 86,
+            question: "αὐτῇ",
+            answer: "haar",
+        },
+        {
+            id: 87,
+            question: "ὅτι",
+            answer: "dat, omdat",
+        },
+        {
+            id: 88,
+            question: "σέ",
+            answer: "jou, je, u",
+        },
+        {
+            id: 89,
+            question: "σός",
+            answer: "jouw, uw",
+        },
+        {
+            id: 90,
+            question: "μοί",
+            answer: "mij, me",
+        },
     ];
 
     // Create a shuffled version of the flashcards
