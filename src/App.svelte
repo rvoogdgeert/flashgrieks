@@ -396,249 +396,83 @@
         //    answer: "veel",
         //},
         // 5B
-        {
-            id: 79,
-            question: "ἐν",
-            answer: "in, op, bij",
-        },
-        {
-            id: 80,
-            question: "ἡ οἰκία",
-            answer: "huis",
-        },
-        {
-            id: 81,
-            question: "...τε καί...",
-            answer: "en",
-        },
-        {
-            id: 82,
-            question: "αὐτῷ",
-            answer: "hem",
-        },
-        {
-            id: 83,
-            question: "λέγω",
-            answer: "zeggen",
-        },
-        {
-            id: 84,
-            question: "ἐνθάδε",
-            answer: "hierheen",
-        },
-        {
-            id: 85,
-            question: "ἥκω",
-            answer: "komen",
-        },
-        {
-            id: 86,
-            question: "αὐτῇ",
-            answer: "haar",
-        },
-        {
-            id: 87,
-            question: "ὅτι",
-            answer: "dat, omdat",
-        },
-        {
-            id: 88,
-            question: "σέ",
-            answer: "jou, je, u",
-        },
-        {
-            id: 89,
-            question: "σός",
-            answer: "jouw, uw",
-        },
-        {
-            id: 90,
-            question: "μοί",
-            answer: "mij, me",
-        },
-        {
-            id: 91,
-            question: "παρέχω",
-            answer: "verschaffen",
-        },
-        {
-            id: 92,
-            question: "λύω",
-            answer: "losmaken",
-        },
-        {
-            id: 93,
-            question: "ἡ θεός",
-            answer: "godin",
-        },
-        {
-            id: 94,
-            question: "ὅμοιος",
-            answer: "gelijk aan",
-        },
-        {
-            id: 95,
-            question: "ὁ ξένος",
-            answer: "vreemdeling",
-        },
-        {
-            id: 96,
-            question: "κακός",
-            answer: "slecht",
-        },
-        {
-            id: 97,
-            question: "τὸ ἔργον",
-            answer: "daad",
-        },
-        {
-            id: 98,
-            question: "μέλλω",
-            answer: "op het punt staan om",
-        },
-        {
-            id: 99,
-            question: "αὐτήν",
-            answer: "haar",
-        },
-        {
-            id: 100,
-            question: "μέτα",
-            answer: "met",
-        },
-        {
-            id: 101,
-            question: "τὰ ὅπλα",
-            answer: "wapens",
-        },
-        {
-            id: 102,
-            question: "ὁ ἵππος",
-            answer: "paard",
-        },
-        {
-            id: 103,
-            question: "αὐτῆς",
-            answer: "haar",
-        },
+        { id: 79,  question: "ἐν", answer: "in, op, bij" },
+        { id: 80,  question: "ἡ οἰκία", answer: "huis" },
+        { id: 81,  question: "...τε καί...", answer: "en" },
+        { id: 82,  question: "αὐτῷ", answer: "hem" },
+        { id: 83,  question: "λέγω", answer: "zeggen" },
+        { id: 84,  question: "ἐνθάδε", answer: "hierheen" },
+        { id: 85,  question: "ἥκω", answer: "komen" },
+        { id: 86,  question: "αὐτῇ", answer: "haar" },
+        { id: 87,  question: "ὅτι", answer: "dat, omdat" },
+        { id: 88,  question: "σέ",  answer: "jou, je, u" },
+        { id: 89,  question: "σός",  answer: "jouw, uw" },
+        { id: 90,  question: "μοί",  answer: "mij, me" },
+        { id: 91,  question: "παρέχω",  answer: "verschaffen" },
+        { id: 92,  question: "λύω",  answer: "losmaken" },
+        { id: 93,  question: "ἡ θεός",  answer: "godin" },
+        { id: 94,  question: "ὅμοιος",  answer: "gelijk aan" },
+        { id: 95,  question: "ὁ ξένος",  answer: "vreemdeling" },
+        { id: 96,  question: "κακός",  answer: "slecht" },
+        { id: 97,  question: "τὸ ἔργον",  answer: "daad" },
+        { id: 98,  question: "μέλλω",  answer: "op het punt staan om" },
+        { id: 99,  question: "αὐτήν",  answer: "haar" },
+        { id: 100, question: "μέτα", answer: "met" },
+        { id: 101, question: "τὰ ὅπλα", answer: "wapens" },
+        { id: 102, question: "ὁ ἵππος", answer: "paard" },
+        { id: 103, question: "αὐτῆς", answer: "haar" },
         // 5C
-        {
-            id: 104,
-            question: "κελεύω",
-            answer: "bevelen",
-        },
-        {
-            id: 105,
-            question: "εκ",
-            answer: "uit",
-        },
-        {
-            id: 106,
-            question: "ἄγω",
-            answer: "brengen",
-        },
-        {
-            id: 107,
-            question: "ὁ νεκρός",
-            answer: "lijk",
-        },
-        {
-            id: 108,
-            question: "ὁ λόγος",
-            answer: "woord",
-        },
-        {
-            id: 109,
-            question: "αὐτόν",
-            answer: "hem",
-        },
-        {
-            id: 110,
-            question: "κρατέω",
-            answer: "machten hebben over",
-        },
-        {
-            id: 111,
-            question: "εξεστι",
-            answer: "het is mogelijk om",
-        },
-        {
-            id: 112,
-            question: "επι",
-            answer: "bij",
-        },
-        {
-            id: 113,
-            question: "αἱ πύλαι",
-            answer: "poort",
-        },
-        {
-            id: 114,
-            question: "αὐτοῦ",
-            answer: "hem",
-        },
-        {
-            id: 115,
-            question: "τοτε",
-            answer: "dan",
-        },
-        {
-            id: 116,
-            question: "ἰσχυρός",
-            answer: "machtig",
-        },
+        { id: 104, question: "κελεύω", answer: "bevelen" },
+        { id: 105, question: "εκ", answer: "uit" },
+        { id: 106, question: "ἄγω", answer: "brengen" },
+        { id: 107, question: "ὁ νεκρός", answer: "lijk" },
+        { id: 108, question: "ὁ λόγος", answer: "woord" },
+        { id: 109, question: "αὐτόν", answer: "hem" },
+        { id: 110, question: "κρατέω", answer: "machten hebben over" },
+        { id: 111, question: "εξεστι", answer: "het is mogelijk om" },
+        { id: 112, question: "επι", answer: "bij" },
+        { id: 113, question: "αἱ πύλαι", answer: "poort" },
+        { id: 114, question: "αὐτοῦ", answer: "hem" },
+        { id: 115, question: "τοτε", answer: "dan" },
+        { id: 116, question: "ἰσχυρός", answer: "machtig" },
         // 6A
-        {
-            id: 117,
-            question: "τὸ τέκνον",
-            answer: "kind",
-        },
-        {
-            id: 118,
-            question: "λείπω",
-            answer: "verlaten",
-        },
-        {
-            id: 119,
-            question: "αἱ Ἀθῆναι",
-            answer: "Athene",
-        },
-        {
-            id: 120,
-            question: "τὸ πλοῖον",
-            answer: "schip",
-        },
-        {
-            id: 121,
-            question: "ἡ νῆσος",
-            answer: "eiland",
-        },
-        {
-            id: 122,
-            question: "πλέω",
-            answer: "varen",
-        },
-        {
-            id: 123,
-            question: "δια",
-            answer: "door",
-        },
-        {
-            id: 124,
-            question: "ἡ λύπη",
-            answer: "verdriet",
-        },
-        {
-            id: 125,
-            question: "μετα",
-            answer: "na",
-        },
-        {
-            id: 126,
-            question: "ὁ χρόνος",
-            answer: "tijd",
-        },
-    ];
+        { id: 117, question: "τὸ τέκνον", answer: "kind" },
+        { id: 118, question: "λείπω", answer: "verlaten" },
+        { id: 119, question: "αἱ Ἀθῆναι", answer: "Athene" },
+        { id: 120, question: "τὸ πλοῖον", answer: "schip" },
+        { id: 121, question: "ἡ νῆσος", answer: "eiland" },
+        { id: 122, question: "πλέω", answer: "varen" },
+        { id: 123, question: "δια", answer: "door" },
+        { id: 124, question: "ἡ λύπη", answer: "verdriet" },
+        { id: 125, question: "μετα", answer: "na" },
+        // 6B
+        { id: 126, question: "αὐτοῖς", answer: "hen" },
+        { id: 127, question: "ἡ θύρα", answer: "deur" },
+        { id: 128, question: "πάλιν", answer: "weer" },
+        { id: 129, question: "ἡ ἡμέρα", answer: "dag" },
+        { id: 130, question: "ἀκούω", answer: "horen" },
+        { id: 131, question: "μοῦ, ἐμοῦ", answer: "mij, mijn" },
+        { id: 132, question: "μένω", answer: "blijven" },
+        { id: 133, question: "ὑμεῖς", answer: "jullie" },
+        { id: 134, question: "δή", answer: "dan, dus" },
+        { id: 135, question: "δακρύω", answer: "huilen" },
+        { id: 136, question: "ἡμεῖς", answer: "wij" },
+        { id: 137, question: "εἶναι", answer: "zijn" },
+        { id: 138, question: "ὧδε", answer: "zo, als volgt" },
+        { id: 139, question: "θαυμάζω ὅτι", answer: "zich erover verwonderen dat" },
+        { id: 140, question: "μή", answer: "niet" },
+        { id: 141, question: "μόνος", answer: "alleen" },
+        { id: 142, question: "πρός", answer: "bij" },
+        //// 6C
+        //{ id: 143, question: "", answer: "" },
+        //{ id: 144, question: "", answer: "" },
+        //{ id: 145, question: "", answer: "" },
+        //{ id: 146, question: "", answer: "" },
+        //{ id: 147, question: "", answer: "" },
+        //{ id: 148, question: "", answer: "" },
+        //{ id: 149, question: "", answer: "" },
+
+        ];
 
     // Create a shuffled version of the flashcards
     let shuffledCards = [];
@@ -834,3 +668,5 @@
         border-radius: 4px;
     }
 </style>
+B
+B
