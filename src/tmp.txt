@@ -1,0 +1,113 @@
+// A
+οὐ, οὐκ, οὐχ, niet
+εἰμί, zijn
+ἄνθρωπος, ὁ, mens
+θεός, ο/ἡ, god, godin
+δουλεύω, slaaf
+τί;, wat? waarom?
+ἔχω, hebben
+δε, δ’, en, maar
+φέρω, dragen, brengen
+βαίνω, gaan
+
+// B
+προς, naar
+ἀλλά, ἀλλ’, maar
+οὕτως, zo
+νῦν, nu
+εἰς, naar
+καί, en, ook
+λαμβάνω, nemen
+ποιέω, doen, maken
+γάρ, want
+φίλος, ὁ, vriend
+
+// Γ
+ἐνταῦθα, daar
+μέγας, groot
+μέν, niet vertalen, geeft aan dat er nog een tweede mededeling komt
+ἔπειτα, vervolgens
+οὐδέν, niets
+ἄλλος, ander(e)
+ἕκαστος, ieder
+μάλα, zeer
+καλός, mooi
+οὖν, dus, dan
+
+// Ε
+ἔγω, ik
+ἐπί, naar
+πολύς, veel
+ἐν, in, op
+οἰκία, ἡ, huis
+λέγω, zeggen
+ἐνθάδε, hierheen
+ἥκω, komen
+ὅτι, dat, omdat
+
+// Ζ
+κακός, slecht
+μετά, met
+ἵππος, ὁ, paard
+ἐκ, uit
+ἄγω, brengen
+λόγος, ὁ, woord
+ἐξεστι(ν), het is mogelijk voor
+ἐπί, bij, op
+τότε, dan, op dat moment
+διά, door
+
+// Η
+μετά, na
+χρόνος, ὁ, tijd
+οἶος, ὁ, zoon
+εἰ, als, indien
+ἡμέρα, ἡ, dag
+ἀκούω, luisteren naar, horen
+ὑμεῖς, jullie
+δή, geeft nadruk, niet vertalen
+ἡμεῖς, wij
+ὧδε, zo
+
+// Θ
+αὐτός, zelf, of een ps vnw
+ζώοις: hij, zij, hem, haar, hen, het, dit, die
+δίνγεν
+παρθένος, ἡ, meisje
+οὐδείς, niemand
+ὅτι, op
+πολύς, veel
+
+// Ι
+ὥσπερ, zoals
+ὅσπερ, altijd
+μετά ταῦτα, daarna
+ἀπο, vanaf
+ἀποθνήσκω, sterven
+τίς;, wie, wat, welke?
+περί, om, over
+θάνατος, ὁ, dood
+παρείμι, aanwezig zijn
+ὅδε, deze, hij
+
+// Κ
+οὐδέ, en niet, maar niet
+πατήρ, ὁ, vader, πατρος
+οὐδέν, niets, helemaal niet
+ὅτι, al
+οὐκέτι, niet meer
+πᾶς, geheel, ieder, alle, alles, allen
+σῶμα, το, lichaam, σώματος
+παῖς, ὁ/ἡ, kind, slaaf, παιδος
+οἷος τε εἰμί, in staat zijn
+γυνή, ἡ, vrouw, γυναίκος
+
+// Λ
+ὑμετέρος, uw, (van) jullie
+ὑμετέρος, onze, (van) ons
+μητήρ, ἡ, moeder, μητρος
+ὀλίγος, weinig
+μετά, zeer
+εὖ, goed
+πόλις, ἡ, stad, πόλεως
+κατά, van...af
