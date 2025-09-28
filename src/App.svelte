@@ -5,10 +5,10 @@
     const flashCards = [
         // A
         { id: 1, question: "οὐ, οὐκ, οὐχ", answer: "niet" },
-        { id: 2, question: "εἰμί", answer: "zijn" },
+        { id: 2, question: "εἰμι", answer: "zijn" },
         { id: 3, question: "ἄνθρωπος, ὁ", answer: "mens" },
         { id: 4, question: "θεός, ο/ἡ", answer: "god" },
-        { id: 5, question: "δουλεύω", answer: "slaaf" },
+        { id: 5, question: "δουλος", answer: "slaaf" },
         { id: 6, question: "τί;", answer: "wat" },
         { id: 7, question: "ἔχω", answer: "hebben" },
         { id: 8, question: "δε, δ'", answer: "en" },
@@ -41,7 +41,7 @@
 
         // Δ
         { id: 31, question: "ἔγω", answer: "ik" },
-        { id: 32, question: "ἐπί", answer: "naar" },
+        { id: 32, question: "ἐπί", answer: "bij" },
         { id: 33, question: "πολύς", answer: "veel" },
         { id: 34, question: "ἐν", answer: "in" },
         { id: 35, question: "οἰκία, ἡ", answer: "huis" },
@@ -68,9 +68,7 @@
         //{ id: 52, question: "οἶος, ὁ", answer: "zoon" },
         //{ id: 53, question: "εἰ", answer: "als" },
         //{ id: 54, question: "ἡμέρα, ἡ", answer: "dag" },
-        //{ id: 55, question: "ἀκούω", answer: "luisteren naar" },
         //{ id: 56, question: "ὑμεῖς", answer: "jullie" },
-        //{ id: 57, question: "δή", answer: "nadruk" },
         //{ id: 58, question: "ἡμεῖς", answer: "wij" },
         //{ id: 59, question: "ὧδε", answer: "zo" },
 
