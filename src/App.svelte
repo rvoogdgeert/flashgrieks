@@ -139,7 +139,7 @@
         { id: 67, question: "γαμέω", answer: "trouwen" },
         { id: 68, question: "ὁ γάμος", answer: "huwelijk" },
         { id: 69, question: "χαίρω", answer: "blij zijn" },
-         6B
+        //6B
         { id: 70, question: "αὐτοῖς", answer: "hen" },
         { id: 71, question: "ἡ θύρα", answer: "deur" },
         { id: 72, question: "πάλιν", answer: "weer" },
@@ -171,7 +171,6 @@
         { id: 97, question: "ἡ θάλαττα", answer: "zee" },
         { id: 98, question: "εἰσβαίνω", answer: "ingaan" },
         { id: 99, question: "ὁ ἄνεμος", answer: "wind" },
-
     ];
 
     // Create a shuffled version of the flashcards
