@@ -65,7 +65,7 @@
         // Ζ
         { id: 50, question: "μετά", answer: "na" },
         { id: 51, question: "χρόνος, ὁ", answer: "tijd" },
-        { id: 52, question: "οἶος, ὁ", answer: "zoon" },
+        { id: 52, question: "ὑιος, ὁ", answer: "zoon" },
         { id: 53, question: "εἰ", answer: "als" },
         { id: 54, question: "ἡμέρα, ἡ", answer: "dag" },
         { id: 56, question: "ὑμεῖς", answer: "jullie" },
