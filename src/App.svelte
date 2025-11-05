@@ -78,7 +78,7 @@
         //{ id: 61, question: "προς", answer: "bij" },
         //{ id: 62, question: "θαλαττα, η", answer: "zee" },
         //{ id: 62, question: "ἀνεμος, ο", answer: "wind" },
-        //{ id: 62, question: "αὐτος", answer: "hij, zij" },
+        //{ id: 62, question: "αὐτος", answer: "hij" },
         //{ id: 63, question: "παρθενος, ἡ", answer: "meisje" },
         //{ id: 64, question: "οὐδείς", answer: "niemand" },
         //{ id: 65, question: "eπι", answer: "op" },
@@ -90,11 +90,11 @@
         { id: 69, question: "μετά ταῦτα", answer: "daarna" },
         { id: 70, question: "ἀπο", answer: "vanaf" },
         { id: 71, question: "ἀποθνήσκω", answer: "sterven" },
-        { id: 72, question: "τίς;", answer: "wie, wat, welke?" },
-        { id: 73, question: "περί", answer: "om, over" },
+        { id: 72, question: "τίς;", answer: "wie" },
+        { id: 73, question: "περί", answer: "om" },
         { id: 74, question: "θάνατος, ὁ", answer: "dood" },
         { id: 75, question: "παρείμι", answer: "aanwezig zijn" },
-        { id: 76, question: "ὅδε", answer: "deze, hij" },
+        { id: 76, question: "ὅδε", answer: "deze" },
 
         // Ι
         { id: 77, question: "οὐδέ", answer: "en niet" },
@@ -104,7 +104,7 @@
         { id: 81, question: "οὐκέτι", answer: "niet meer" },
         { id: 82, question: "πᾶς", answer: "geheel"},
         { id: 83, question: "σῶμα, το", answer: "lichaam, " },
-        { id: 84, question: "παῖς, ὁ/ἡ", answer: "kind, slaaf" },
+        { id: 84, question: "παῖς, ὁ/ἡ", answer: "kind" },
         { id: 85, question: "οἷος τε εἰμί", answer: "in staat zijn" },
         { id: 86, question: "γυνή, ἡ", answer: "vrouw" },
 
