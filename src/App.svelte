@@ -119,17 +119,17 @@
         { id: 93, question: "πόλις, ἡ", answer: "stad" },
         { id: 94, question: "κατά", answer: "van af" },
 
-        // Λ
-        { id: 95, question: "χωρα, ἡ", answer: "gebied" },
-        { id: 96, question: "οἰκεω", answer: "wonen" },
-        { id: 97, question: "φοβος, ὁ", answer: "angst" },
-        { id: 98, question: "φευγω", answer: "vluchten" },
-        { id: 99, question: "μαχη, ἡ", answer: "gevecht" },
-        { id: 100, question: "δεσποτης, ὁ", answer: "heerser" },
-        { id: 101, question: "δεινος", answer: "verschrikkelijk" },
-        { id: 102, question: "θνητος", answer: "sterfelijk" },
-        { id: 103, question: "ἀθανατος", answer: "onsterfelijk" },
-        { id: 104, question: "ζητεω", answer: "zoeken" },
+        //// Λ
+        //{ id: 95, question: "χωρα, ἡ", answer: "gebied" },
+        //{ id: 96, question: "οἰκεω", answer: "wonen" },
+        //{ id: 97, question: "φοβος, ὁ", answer: "angst" },
+        //{ id: 98, question: "φευγω", answer: "vluchten" },
+        //{ id: 99, question: "μαχη, ἡ", answer: "gevecht" },
+        //{ id: 100, question: "δεσποτης, ὁ", answer: "heerser" },
+        //{ id: 101, question: "δεινος", answer: "verschrikkelijk" },
+        //{ id: 102, question: "θνητος", answer: "sterfelijk" },
+        //{ id: 103, question: "ἀθανατος", answer: "onsterfelijk" },
+        //{ id: 104, question: "ζητεω", answer: "zoeken" },
 
         //// Μ
         //{ id: 105, question: "εὑρισκω", answer: "vinden" },
