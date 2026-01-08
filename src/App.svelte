@@ -109,15 +109,15 @@
         //{ id: 85, question: "οἷος τε εἰμί", answer: "in staat zijn" },
         //{ id: 86, question: "γυνή, ἡ", answer: "vrouw" },
 
-        //// Κ
-        //{ id: 87, question: "ὑμετέρος", answer: "uw" },
-        //{ id: 88, question: "ὑμετέρος", answer: "onze" },
-        //{ id: 89, question: "μητήρ, ἡ", answer: "moeder" },
-        //{ id: 90, question: "ὀλίγος", answer: "weinig" },
-        //{ id: 91, question: "μετά", answer: "zeer" },
-        //{ id: 92, question: "εὖ", answer: "goed" },
-        //{ id: 93, question: "πόλις, ἡ", answer: "stad" },
-        //{ id: 94, question: "κατά", answer: "van af" },
+        // Κ
+        { id: 87, question: "ὑμετέρος", answer: "uw" },
+        { id: 88, question: "ὑμετέρος", answer: "onze" },
+        { id: 89, question: "μητήρ, ἡ", answer: "moeder" },
+        { id: 90, question: "ὀλίγος", answer: "weinig" },
+        { id: 91, question: "μετά", answer: "zeer" },
+        { id: 92, question: "εὖ", answer: "goed" },
+        { id: 93, question: "πόλις, ἡ", answer: "stad" },
+        { id: 94, question: "κατά", answer: "van af" },
 
         // Λ
         { id: 95, question: "χωρα, ἡ", answer: "gebied" },
