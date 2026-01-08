@@ -3,17 +3,17 @@
 
     // Define flash cards data structure
     const flashCards = [
-        //// A
-        //{ id: 1, question: "οὐ, οὐκ, οὐχ", answer: "niet" },
-        //{ id: 2, question: "εἰμι", answer: "zijn" },
-        //{ id: 3, question: "ἄνθρωπος, ὁ", answer: "mens" },
-        //{ id: 4, question: "θεός, ο/ἡ", answer: "god" },
-        //{ id: 5, question: "δουλος", answer: "slaaf" },
-        //{ id: 6, question: "τί;", answer: "wat" },
-        //{ id: 7, question: "ἔχω", answer: "hebben" },
-        //{ id: 8, question: "δε, δ'", answer: "en" },
-        //{ id: 9, question: "φέρω", answer: "dragen" },
-        //{ id: 10, question: "βαίνω", answer: "gaan" },
+        // A
+        { id: 1, question: "οὐ, οὐκ, οὐχ", answer: "niet" },
+        { id: 2, question: "εἰμι", answer: "zijn" },
+        { id: 3, question: "ἄνθρωπος, ὁ", answer: "mens" },
+        { id: 4, question: "θεός, ο/ἡ", answer: "god" },
+        { id: 5, question: "δουλος", answer: "slaaf" },
+        { id: 6, question: "τί;", answer: "wat" },
+        { id: 7, question: "ἔχω", answer: "hebben" },
+        { id: 8, question: "δε, δ'", answer: "en" },
+        { id: 9, question: "φέρω", answer: "dragen" },
+        { id: 10, question: "βαίνω", answer: "gaan" },
 
         // B
         { id: 11, question: "προς", answer: "naar" },
