@@ -27,28 +27,28 @@
         //{ id: 19, question: "γάρ", answer: "want" },
         //{ id: 20, question: "φίλος, ὁ", answer: "vriend" },
 
-        //// Γ
-        //{ id: 21, question: "ἐνταῦθα", answer: "daar" },
-        //{ id: 22, question: "μέγας", answer: "groot" },
-        //{ id: 23, question: "μέν", answer: "niet vertalen" },
-        //{ id: 24, question: "ἔπειτα", answer: "vervolgens" },
-        //{ id: 25, question: "οὐδέν", answer: "niets" },
-        //{ id: 26, question: "ἄλλος", answer: "ander" },
-        //{ id: 27, question: "ἕκαστος", answer: "ieder" },
-        //{ id: 28, question: "μάλα", answer: "zeer" },
-        //{ id: 29, question: "καλός", answer: "mooi" },
-        //{ id: 30, question: "οὖν", answer: "dus" },
+        // Γ
+        { id: 21, question: "ἐνταῦθα", answer: "daar" },
+        { id: 22, question: "μέγας", answer: "groot" },
+        { id: 23, question: "μέν", answer: "niet vertalen" },
+        { id: 24, question: "ἔπειτα", answer: "vervolgens" },
+        { id: 25, question: "οὐδέν", answer: "niets" },
+        { id: 26, question: "ἄλλος", answer: "ander" },
+        { id: 27, question: "ἕκαστος", answer: "ieder" },
+        { id: 28, question: "μάλα", answer: "zeer" },
+        { id: 29, question: "καλός", answer: "mooi" },
+        { id: 30, question: "οὖν", answer: "dus" },
 
-        //// Δ
-        //{ id: 31, question: "ἔγω", answer: "ik" },
-        //{ id: 32, question: "ἐπί", answer: "bij" },
-        //{ id: 33, question: "πολύς", answer: "veel" },
-        //{ id: 34, question: "ἐν", answer: "in" },
-        //{ id: 35, question: "οἰκία, ἡ", answer: "huis" },
-        //{ id: 36, question: "λέγω", answer: "zeggen" },
-        //{ id: 37, question: "ἐνθάδε", answer: "hierheen" },
-        //{ id: 38, question: "ἥκω", answer: "komen" },
-        //{ id: 39, question: "ὅτι", answer: "dat" },
+        // Δ
+        { id: 31, question: "ἔγω", answer: "ik" },
+        { id: 32, question: "ἐπί", answer: "bij" },
+        { id: 33, question: "πολύς", answer: "veel" },
+        { id: 34, question: "ἐν", answer: "in" },
+        { id: 35, question: "οἰκία, ἡ", answer: "huis" },
+        { id: 36, question: "λέγω", answer: "zeggen" },
+        { id: 37, question: "ἐνθάδε", answer: "hierheen" },
+        { id: 38, question: "ἥκω", answer: "komen" },
+        { id: 39, question: "ὅτι", answer: "dat" },
 
         //// Ε
         //{ id: 40, question: "κακός", answer: "slecht" },
@@ -143,17 +143,17 @@
         //{ id: 113, question: "φιλεω", answer: "houden van" },
         //{ id: 114, question: "φιλος", answer: "bevriend" },
 
-        // Ν
-        { id: 115, question: "θαυμαζω", answer: "bewonderen" },
-        { id: 116, question: "αἰτεω", answer: "verzoeken" },
-        { id: 117, question: "ἐπιθυμεω", answer: "verlangen" },
-        { id: 118, question: "ἐθελω", answer: "willen" },
-        { id: 119, question: "πεμπω", answer: "sturen" },
-        { id: 120, question: "ἑταιρος, ὁ", answer: "vriend" },
-        { id: 121, question: "παρεχω", answer: "verschaffen" },
-        { id: 122, question: "λυω", answer: "losmaken" },
-        { id: 123, question: "κελευω", answer: "bevelen" },
-        { id: 124, question: "κρατεω +gen", answer: "overwinnen" },
+        //// Ν
+        //{ id: 115, question: "θαυμαζω", answer: "bewonderen" },
+        //{ id: 116, question: "αἰτεω", answer: "verzoeken" },
+        //{ id: 117, question: "ἐπιθυμεω", answer: "verlangen" },
+        //{ id: 118, question: "ἐθελω", answer: "willen" },
+        //{ id: 119, question: "πεμπω", answer: "sturen" },
+        //{ id: 120, question: "ἑταιρος, ὁ", answer: "vriend" },
+        //{ id: 121, question: "παρεχω", answer: "verschaffen" },
+        //{ id: 122, question: "λυω", answer: "losmaken" },
+        //{ id: 123, question: "κελευω", answer: "bevelen" },
+        //{ id: 124, question: "κρατεω +gen", answer: "overwinnen" },
 
         //// 6A
         //{ id: 50, question: "τὸ τέκνον", answer: "kind" },
