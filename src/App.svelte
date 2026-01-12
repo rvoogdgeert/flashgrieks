@@ -109,27 +109,27 @@
         //{ id: 85, question: "οἷος τε εἰμί", answer: "in staat zijn" },
         //{ id: 86, question: "γυνή, ἡ", answer: "vrouw" },
 
-        // Κ
-        { id: 87, question: "ὑμετέρος", answer: "uw" },
-        { id: 88, question: "ὑμετέρος", answer: "onze" },
-        { id: 89, question: "μητήρ, ἡ", answer: "moeder" },
-        { id: 90, question: "ὀλίγος", answer: "weinig" },
-        { id: 91, question: "μετά", answer: "zeer" },
-        { id: 92, question: "εὖ", answer: "goed" },
-        { id: 93, question: "πόλις, ἡ", answer: "stad" },
-        { id: 94, question: "κατά", answer: "van af" },
+        //// Κ
+        //{ id: 87, question: "ὑμετέρος", answer: "uw" },
+        //{ id: 88, question: "ὑμετέρος", answer: "onze" },
+        //{ id: 89, question: "μητήρ, ἡ", answer: "moeder" },
+        //{ id: 90, question: "ὀλίγος", answer: "weinig" },
+        //{ id: 91, question: "μετά", answer: "zeer" },
+        //{ id: 92, question: "εὖ", answer: "goed" },
+        //{ id: 93, question: "πόλις, ἡ", answer: "stad" },
+        //{ id: 94, question: "κατά", answer: "van af" },
 
-       //// Λ
-       //{ id: 95, question: "χωρα, ἡ", answer: "gebied" },
-       //{ id: 96, question: "οἰκεω", answer: "wonen" },
-       //{ id: 97, question: "φοβος, ὁ", answer: "angst" },
-       //{ id: 98, question: "φευγω", answer: "vluchten" },
-       //{ id: 99, question: "μαχη, ἡ", answer: "gevecht" },
-       //{ id: 100, question: "δεσποτης, ὁ", answer: "heerser" },
-       //{ id: 101, question: "δεινος", answer: "verschrikkelijk" },
-       //{ id: 102, question: "θνητος", answer: "sterfelijk" },
-       //{ id: 103, question: "ἀθανατος", answer: "onsterfelijk" },
-       //{ id: 104, question: "ζητεω", answer: "zoeken" },
+       // Λ
+       { id: 95, question: "χωρα, ἡ", answer: "gebied" },
+       { id: 96, question: "οἰκεω", answer: "wonen" },
+       { id: 97, question: "φοβος, ὁ", answer: "angst" },
+       { id: 98, question: "φευγω", answer: "vluchten" },
+       { id: 99, question: "μαχη, ἡ", answer: "gevecht" },
+       { id: 100, question: "δεσποτης, ὁ", answer: "heerser" },
+       { id: 101, question: "δεινος", answer: "verschrikkelijk" },
+       { id: 102, question: "θνητος", answer: "sterfelijk" },
+       { id: 103, question: "ἀθανατος", answer: "onsterfelijk" },
+       { id: 104, question: "ζητεω", answer: "zoeken" },
 
         //// Μ
         //{ id: 105, question: "εὑρισκω", answer: "vinden" },
