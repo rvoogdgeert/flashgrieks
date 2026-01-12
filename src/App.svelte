@@ -109,15 +109,15 @@
         //{ id: 85, question: "οἷος τε εἰμί", answer: "in staat zijn" },
         //{ id: 86, question: "γυνή, ἡ", answer: "vrouw" },
 
-        //// Κ
-        //{ id: 87, question: "ὑμετέρος", answer: "uw" },
-        //{ id: 88, question: "ὑμετέρος", answer: "onze" },
-        //{ id: 89, question: "μητήρ, ἡ", answer: "moeder" },
-        //{ id: 90, question: "ὀλίγος", answer: "weinig" },
-        //{ id: 91, question: "μετά", answer: "zeer" },
-        //{ id: 92, question: "εὖ", answer: "goed" },
-        //{ id: 93, question: "πόλις, ἡ", answer: "stad" },
-        //{ id: 94, question: "κατά", answer: "van af" },
+        // Κ
+        { id: 87, question: "ὑμετέρος", answer: "uw" },
+        { id: 88, question: "ὑμετέρος", answer: "onze" },
+        { id: 89, question: "μητήρ, ἡ", answer: "moeder" },
+        { id: 90, question: "ὀλίγος", answer: "weinig" },
+        { id: 91, question: "μετά", answer: "zeer" },
+        { id: 92, question: "εὖ", answer: "goed" },
+        { id: 93, question: "πόλις, ἡ", answer: "stad" },
+        { id: 94, question: "κατά", answer: "van af" },
 
        //// Λ
        //{ id: 95, question: "χωρα, ἡ", answer: "gebied" },
@@ -143,17 +143,17 @@
         //{ id: 113, question: "φιλεω", answer: "houden van" },
         //{ id: 114, question: "φιλος", answer: "bevriend" },
 
-        // Ν
-        { id: 115, question: "θαυμαζω", answer: "bewonderen" },
-        { id: 116, question: "αἰτεω", answer: "verzoeken" },
-        { id: 117, question: "ἐπιθυμεω", answer: "verlangen" },
-        { id: 118, question: "ἐθελω", answer: "willen" },
-        { id: 119, question: "πεμπω", answer: "sturen" },
-        { id: 120, question: "ἑταιρος, ὁ", answer: "vriend" },
-        { id: 121, question: "παρεχω", answer: "verschaffen" },
-        { id: 122, question: "λυω", answer: "losmaken" },
-        { id: 123, question: "κελευω", answer: "bevelen" },
-        { id: 124, question: "κρατεω +gen", answer: "overwinnen" },
+        //// Ν
+        //{ id: 115, question: "θαυμαζω", answer: "bewonderen" },
+        //{ id: 116, question: "αἰτεω", answer: "verzoeken" },
+        //{ id: 117, question: "ἐπιθυμεω", answer: "verlangen" },
+        //{ id: 118, question: "ἐθελω", answer: "willen" },
+        //{ id: 119, question: "πεμπω", answer: "sturen" },
+        //{ id: 120, question: "ἑταιρος, ὁ", answer: "vriend" },
+        //{ id: 121, question: "παρεχω", answer: "verschaffen" },
+        //{ id: 122, question: "λυω", answer: "losmaken" },
+        //{ id: 123, question: "κελευω", answer: "bevelen" },
+        //{ id: 124, question: "κρατεω +gen", answer: "overwinnen" },
 
         //// 6A
         //{ id: 50, question: "τὸ τέκνον", answer: "kind" },
