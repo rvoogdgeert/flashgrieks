@@ -119,17 +119,17 @@
         //{ id: 93, question: "πόλις, ἡ", answer: "stad" },
         //{ id: 94, question: "κατά", answer: "van af" },
 
-       // Λ
-       { id: 95, question: "χωρα, ἡ", answer: "gebied" },
-       { id: 96, question: "οἰκεω", answer: "wonen" },
-       { id: 97, question: "φοβος, ὁ", answer: "angst" },
-       { id: 98, question: "φευγω", answer: "vluchten" },
-       { id: 99, question: "μαχη, ἡ", answer: "gevecht" },
-       { id: 100, question: "δεσποτης, ὁ", answer: "heerser" },
-       { id: 101, question: "δεινος", answer: "verschrikkelijk" },
-       { id: 102, question: "θνητος", answer: "sterfelijk" },
-       { id: 103, question: "ἀθανατος", answer: "onsterfelijk" },
-       { id: 104, question: "ζητεω", answer: "zoeken" },
+       //// Λ
+       //{ id: 95, question: "χωρα, ἡ", answer: "gebied" },
+       //{ id: 96, question: "οἰκεω", answer: "wonen" },
+       //{ id: 97, question: "φοβος, ὁ", answer: "angst" },
+       //{ id: 98, question: "φευγω", answer: "vluchten" },
+       //{ id: 99, question: "μαχη, ἡ", answer: "gevecht" },
+       //{ id: 100, question: "δεσποτης, ὁ", answer: "heerser" },
+       //{ id: 101, question: "δεινος", answer: "verschrikkelijk" },
+       //{ id: 102, question: "θνητος", answer: "sterfelijk" },
+       //{ id: 103, question: "ἀθανατος", answer: "onsterfelijk" },
+       //{ id: 104, question: "ζητεω", answer: "zoeken" },
 
         //// Μ
         //{ id: 105, question: "εὑρισκω", answer: "vinden" },
@@ -143,17 +143,17 @@
         //{ id: 113, question: "φιλεω", answer: "houden van" },
         //{ id: 114, question: "φιλος", answer: "bevriend" },
 
-        //// Ν
-        //{ id: 115, question: "θαυμαζω", answer: "bewonderen" },
-        //{ id: 116, question: "αἰτεω", answer: "verzoeken" },
-        //{ id: 117, question: "ἐπιθυμεω", answer: "verlangen" },
-        //{ id: 118, question: "ἐθελω", answer: "willen" },
-        //{ id: 119, question: "πεμπω", answer: "sturen" },
-        //{ id: 120, question: "ἑταιρος, ὁ", answer: "vriend" },
-        //{ id: 121, question: "παρεχω", answer: "verschaffen" },
-        //{ id: 122, question: "λυω", answer: "losmaken" },
-        //{ id: 123, question: "κελευω", answer: "bevelen" },
-        //{ id: 124, question: "κρατεω +gen", answer: "overwinnen" },
+        // Ν
+        { id: 115, question: "θαυμαζω", answer: "bewonderen" },
+        { id: 116, question: "αἰτεω", answer: "verzoeken" },
+        { id: 117, question: "ἐπιθυμεω", answer: "verlangen" },
+        { id: 118, question: "ἐθελω", answer: "willen" },
+        { id: 119, question: "πεμπω", answer: "sturen" },
+        { id: 120, question: "ἑταιρος, ὁ", answer: "vriend" },
+        { id: 121, question: "παρεχω", answer: "verschaffen" },
+        { id: 122, question: "λυω", answer: "losmaken" },
+        { id: 123, question: "κελευω", answer: "bevelen" },
+        { id: 124, question: "κρατεω +gen", answer: "overwinnen" },
 
         //// 6A
         //{ id: 50, question: "τὸ τέκνον", answer: "kind" },
