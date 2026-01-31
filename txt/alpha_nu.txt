@@ -1,0 +1,120 @@
+"οὐ, οὐκ, οὐχ",niet
+εἰμί,zijn
+"ἄνθρωπος, ὁ",mens
+"θεός, ὁ/ἡ","god, godin"
+"δοῦλος, ὁ",slaaf
+τί...;,wat? waarom?
+ἔχω,hebben
+"δέ, δ’","en, maar"
+φέρω,"dragen, brengen"
+βαίνω,gaan
+"χωρα, ἡ",gebied
+οἰκεω,wonen
+"φοβος, ὁ",angst
+φευγω,vluchten
+"μαχη, ἡ",gevecht
+"δεσποτης, ὁ",heerser
+δεινος,verschrikkelijk
+θνητος,sterfelijk
+ἀθανατος,onsterfelijk
+ζητεω,zoeken
+εὑρισκω,vinden
+μακρος,lang
+ἀποκτεινω,doden
+καλεω,roepen
+νεος,"nieuw, jong"
+"πετρα, ἡ",rots
+κρυπτω,verbergen
+"πολεμος, ὁ",oorlog
+φιλεω,houden van
+φιλος,bevriend
+θαυμαζω,bewonderen
+αἰτεω,verzoeken
+ἐπιθυμεω,verlangen
+ἐθελω,willen
+πεμπω,sturen
+"ἑταιρος, ὁ",vriend
+παρεχω,verschaffen
+λυω,losmaken
+κελευω,bevelen
+κρατεω +gen,overwinnen
+πρός +acc,naar
+"ἀλλά, ἀλλ’",maar
+οὕτως,zo
+νῦν,nu
+εἰς +acc,naar
+καί,"en, ook"
+λαμβάνω,nemen
+ποιέω,"doen, maken"
+γάρ,want
+"φίλος, ὁ",vriend
+ἐνταῦθα,daar
+μέγας,groot
+μέν,"niet vertalen, geeft aan dat er nog een tweede mededeling komt"
+ἔπειτα,vervolgens
+οὐδέν,niets
+ἄλλος,ander(e)
+ἕκαστος,ieder
+μάλα,zeer
+καλός,mooi
+οὖν,"dus, dan"
+ἐγώ,ik
+σύ,jij
+ἐπί +acc,naar
+πολύς,veel
+ἐν +dat,"in, op"
+"οἰκία, ἡ",huis
+λέγω,zeggen
+ἐνθάδε,hierheen
+ἥκω,komen
+ὅτι,"dat, omdat"
+κακός,slecht
+μετά +gen,met
+"ἵππος, ὁ",paard
+ἐκ +gen,uit
+ἄγω,brengen
+"λόγος, ὁ",woord
+ἔξεστι(ν) +dat,het is mogelijk voor
+ἐπί +dat,"bij, op"
+τότε,"dan, op dat moment"
+διά +acc,door
+μετά +acc,na
+"χρόνος, ὁ",tijd
+"υἱός, ὁ",zoon
+εἰ,"als, indien"
+"ἡμέρα, ἡ",dag
+ἀκούω +gen,"luisteren naar, horen"
+ὑμεῖς,jullie
+δή,"geeft nadruk, niet vertalen"
+ἡμεῖς,wij
+ὧδε,zo
+μή,niet
+μόνος,alleen
+πρός +dat,bij
+"θάλαττα, ἡ",zee
+"ἄνεμος, ὁ",wind
+αὐτός,"zelf, of een ps vnw, zoals: hij, zij, hem, haar, hen, het, dit, die dingen"
+"παρθένος, ἡ",meisje
+οὐδείς,niemand
+ἐπί +gen,op
+πολύς,veel
+ὥσπερ,zoals
+ἀεί,altijd
+μετά ταῦτα,daarna
+ἀπό +gen,vanaf
+ἀποθνήσκω,sterven
+τίς...;,"wie, wat, welke?"
+περί +gen,"om, over"
+"θάνατος, ὁ",dood
+πάρειμι,aanwezig zijn
+ὅδε,"deze, hij"
+οὐδέ,"en niet, maar niet"
+"πατήρ, ὁ","vader, πατρός"
+οὐδέν,"niets, helemaal niet"
+ἤδη,al
+οὐκέτι,niet meer
+πᾶς,"geheel, ieder, alle, alles, allen"
+"σῶμα, τό","lichaam, σώματος"
+"παῖς, ὁ/ἡ","kind, slaaf, παιδός"
+οἷός τε εἰμί,in staat zijn
+"γυνή, ἡ","vrouw, γυναικός"

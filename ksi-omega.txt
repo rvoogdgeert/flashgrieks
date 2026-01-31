@@ -1,0 +1,123 @@
+Ξ
+τεκνον, το, kind
+λειπω, verlaten
+νησος, ἡ, eiland
+πλεω, varen
+γαμος, ὁ, huwelijk
+χαιρεω +dat, blij zijn met
+παλιν, weer
+μενω, blijven
+δακρυω, huilen
+καθευδω, slapen
+
+Ο
+αἰρω,optillen
+"βια, ἡ",geweld
+"ἀνδρεια, ἡ",moed
+ἐξω,buiten
+ἐκβαινω,gaan uit
+εἰσβαινω,ingaan
+μετεχω +gen,meedoen met
+"φυγη, ἡ",vlucht
+ἱερος,"heilig, gewijd aan"
+"οἰνος, ὁ",wijn
+
+Π
+"κινδυνος, ὁ",gevaar
+ἑαυτος,zichzelf
+ἀποφερω,wegbrengen
+νομιζω,"menen, vinden"
+αἰτιος +gen,verantwoordelijk voor
+"ἡλιος, ὁ",zon
+"ὑπνος, ὁ",slaap
+πλην +gen,behalve
+"φωνη, ἡ",stem
+ἀνευ +gen,zonder
+
+Ρ
+ἀναβαινω,omhoog gaan
+βλεπω,kijken
+μονον,slechts
+ἐμος,mijn
+"βιος, ὁ",leven
+ῥιπτω,gooien
+πιπτω,vallen
+"συμφορα, ἡ","gebeurtenis, ongeluk"
+φροντιζω +gen,zich zorgen maken over
+"στρατηγος, ὁ",legeraanvoerder
+
+Σ
+"ναυτης, ὁ",zeeman
+"στρατιωτης, ὁ",soldaat
+"ἀνηρ, ὁ",man (gen: ἀνδρος)
+εἰσφερω,naar binnen brengen
+"νους, ὁ",geest
+παυω,"tegenhouden, laten stoppen"
+κωλυω,verhinderen
+ἁμα,tegelijkertijd
+ἐχθρός,"vijandig, gehaat"
+"τυχη, ἡ",lot
+
+Τ
+ὁμως,toch
+"ἀγγελος, ὁ",bode
+"ἀληθεια, ἡ",waarheid
+ἀγγελλω,melden
+"στρατια, ἡ",leger
+πιστευω,vertrouwen
+τοιουτος,"zo’n, zodanig"
+ἀντι +gen,in plaats van
+βοηθεω,helpen
+καθιζω,(gaan) zitten
+
+Υ
+παλαιος,oud
+ἐγγυς +gen,dicht bij
+"ἡγεμων, ὁ",leider (gen: ἡγεμονος)
+εὐδαιμων,gelukkig
+μηκετι,niet meer
+ἀποπεμπω,wegsturen
+"ἐρις, ἡ",ruzie (gen: ἐρεως)
+σωφρων,verstandig
+ἀριστος,"beste, zeer goed"
+"σωτηρ, ὁ",redder (gen: σωτηρος)
+
+Φ
+"λεων, ὁ",leeuw (gen: λεοντος)
+"χαιρε, χαιρετε",hallo
+δευρο,hierheen
+κομιζω,"brengen, halen"
+"σιτος, ὁ",voedsel
+"δειπνον, το",maaltijd
+μελει +dat,het interesseert
+"πυρ, το",vuur (gen: πυρος)
+πειθω,overtuigen
+οἰκαδε,naar huis
+
+Χ
+ἀμφι +gen,"om, rondom"
+πολεμεω,oorlog voeren
+"δοξα, ἡ","mening, roem"
+ἀποβαινω,weggaan
+τικτω,baren
+ἰσως,misschien
+ἐλπιζω,hopen
+"τελευτη, ἡ",einde
+προτερος,"eerder, vroeger"
+ἀρχω +gen,"leiden, heersen"
+
+Ψ
+ἐλαυνω,voortdrijven
+λαμπρος,schitterend
+"δακρυον, το",traan
+θερμος,warm
+καλυπτω,"bedekken, verbergen"
+ἀμφοτεροι,beide(n)
+"χειρ, ἡ",hand (gen: χειρος)
+"προσωπον, το",gezicht
+"δουλη, ἡ",slavin
+"κλαιω, κλαω",huilen
+
+Ω
+μανθανω,"leren, begrijpen, vernemen"
+ἀδικος,onrechtvaardig
