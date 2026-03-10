@@ -97,27 +97,27 @@
         //{ id: 75, question: "παρείμι", answer: "aanwezig zijn" },
         //{ id: 76, question: "ὅδε", answer: "deze" },
 
-        // Ι
-        { id: 77, question: "οὐδέ", answer: "en niet" },
-        { id: 78, question: "πατήρ, ὁ", answer: "vader" },
-        { id: 79, question: "οὐδέν", answer: "niets" },
-        { id: 80, question: "ηδη", answer: "al" },
-        { id: 81, question: "οὐκέτι", answer: "niet meer" },
-        { id: 82, question: "πᾶς", answer: "geheel"},
-        { id: 83, question: "σῶμα, το", answer: "lichaam" },
-        { id: 84, question: "παῖς, ὁ/ἡ", answer: "kind" },
-        { id: 85, question: "οἷος τε εἰμί", answer: "in staat zijn" },
-        { id: 86, question: "γυνή, ἡ", answer: "vrouw" },
+        //// Ι
+        //{ id: 77, question: "οὐδέ", answer: "en niet" },
+        //{ id: 78, question: "πατήρ, ὁ", answer: "vader" },
+        //{ id: 79, question: "οὐδέν", answer: "niets" },
+        //{ id: 80, question: "ηδη", answer: "al" },
+        //{ id: 81, question: "οὐκέτι", answer: "niet meer" },
+        //{ id: 82, question: "πᾶς", answer: "geheel"},
+        //{ id: 83, question: "σῶμα, το", answer: "lichaam" },
+        //{ id: 84, question: "παῖς, ὁ/ἡ", answer: "kind" },
+        //{ id: 85, question: "οἷος τε εἰμί", answer: "in staat zijn" },
+        //{ id: 86, question: "γυνή, ἡ", answer: "vrouw" },
 
-        //// Κ
-        //{ id: 87, question: "ὑμετέρος", answer: "uw" },
-        //{ id: 88, question: "ὑμετέρος", answer: "onze" },
-        //{ id: 89, question: "μητήρ, ἡ", answer: "moeder" },
-        //{ id: 90, question: "ὀλίγος", answer: "weinig" },
-        //{ id: 91, question: "μετά", answer: "zeer" },
-        //{ id: 92, question: "εὖ", answer: "goed" },
-        //{ id: 93, question: "πόλις, ἡ", answer: "stad" },
-        //{ id: 94, question: "κατά", answer: "van af" },
+        // Κ
+        { id: 87, question: "ὑμετέρος", answer: "uw" },
+        { id: 88, question: "ὑμετέρος", answer: "onze" },
+        { id: 89, question: "μητήρ, ἡ", answer: "moeder" },
+        { id: 90, question: "ὀλίγος", answer: "weinig" },
+        { id: 91, question: "μετά", answer: "zeer" },
+        { id: 92, question: "εὖ", answer: "goed" },
+        { id: 93, question: "πόλις, ἡ", answer: "stad" },
+        { id: 94, question: "κατά", answer: "van af" },
 
        //// Λ
        //{ id: 95, question: "χωρα, ἡ", answer: "gebied" },
