@@ -3,29 +3,29 @@
 
     // Define flash cards data structure
     const flashCards = [
-        // A
-        { id: 1, question: "οὐ, οὐκ, οὐχ", answer: "niet" },
-        { id: 2, question: "εἰμι", answer: "zijn" },
-        { id: 3, question: "ἄνθρωπος, ὁ", answer: "mens" },
-        { id: 4, question: "θεός, ο/ἡ", answer: "god" },
-        { id: 5, question: "δουλος", answer: "slaaf" },
-        { id: 6, question: "τί;", answer: "wat" },
-        { id: 7, question: "ἔχω", answer: "hebben" },
-        { id: 8, question: "δε, δ'", answer: "en" },
-        { id: 9, question: "φέρω", answer: "dragen" },
-        { id: 10, question: "βαίνω", answer: "gaan" },
+        //// A
+        //{ id: 1, question: "οὐ, οὐκ, οὐχ", answer: "niet" },
+        //{ id: 2, question: "εἰμι", answer: "zijn" },
+        //{ id: 3, question: "ἄνθρωπος, ὁ", answer: "mens" },
+        //{ id: 4, question: "θεός, ο/ἡ", answer: "god" },
+        //{ id: 5, question: "δουλος", answer: "slaaf" },
+        //{ id: 6, question: "τί;", answer: "wat" },
+        //{ id: 7, question: "ἔχω", answer: "hebben" },
+        //{ id: 8, question: "δε, δ'", answer: "en" },
+        //{ id: 9, question: "φέρω", answer: "dragen" },
+        //{ id: 10, question: "βαίνω", answer: "gaan" },
 
-        //// B
-        //{ id: 11, question: "προς", answer: "naar" },
-        //{ id: 12, question: "ἀλλά, ἀλλ'", answer: "maar" },
-        //{ id: 13, question: "οὕτως", answer: "zo" },
-        //{ id: 14, question: "νῦν", answer: "nu" },
-        //{ id: 15, question: "εἰς", answer: "naar" },
-        //{ id: 16, question: "καί", answer: "en" },
-        //{ id: 17, question: "λαμβάνω", answer: "nemen" },
-        //{ id: 18, question: "ποιέω", answer: "doen" },
-        //{ id: 19, question: "γάρ", answer: "want" },
-        //{ id: 20, question: "φίλος, ὁ", answer: "vriend" },
+        // B
+        { id: 11, question: "προς", answer: "naar" },
+        { id: 12, question: "ἀλλά, ἀλλ'", answer: "maar" },
+        { id: 13, question: "οὕτως", answer: "zo" },
+        { id: 14, question: "νῦν", answer: "nu" },
+        { id: 15, question: "εἰς", answer: "naar" },
+        { id: 16, question: "καί", answer: "en" },
+        { id: 17, question: "λαμβάνω", answer: "nemen" },
+        { id: 18, question: "ποιέω", answer: "doen" },
+        { id: 19, question: "γάρ", answer: "want" },
+        { id: 20, question: "φίλος, ὁ", answer: "vriend" },
 
         //// Γ
         //{ id: 21, question: "ἐνταῦθα", answer: "daar" },
