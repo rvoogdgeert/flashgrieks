@@ -131,17 +131,17 @@
        //{ id: 103, question: "ἀθανατος", answer: "onsterfelijk" },
        //{ id: 104, question: "ζητεω", answer: "zoeken" },
 
-        // Μ
-        { id: 105, question: "εὑρισκω", answer: "vinden" },
-        { id: 106, question: "μακρος", answer: "lang" },
-        { id: 107, question: "ἀποκτεινω", answer: "doden" },
-        { id: 108, question: "καλεω", answer: "roepen" },
-        { id: 109, question: "νεος", answer: "nieuw" },
-        { id: 110, question: "πετρα, ἡ", answer: "rots" },
-        { id: 111, question: "κρυπτω", answer: "verbergen" },
-        { id: 112, question: "πολεμος, ὁ", answer: "oorlog" },
-        { id: 113, question: "φιλεω", answer: "houden van" },
-        { id: 114, question: "φιλος", answer: "bevriend" },
+        //// Μ
+        //{ id: 105, question: "εὑρισκω", answer: "vinden" },
+        //{ id: 106, question: "μακρος", answer: "lang" },
+        //{ id: 107, question: "ἀποκτεινω", answer: "doden" },
+        //{ id: 108, question: "καλεω", answer: "roepen" },
+        //{ id: 109, question: "νεος", answer: "nieuw" },
+        //{ id: 110, question: "πετρα, ἡ", answer: "rots" },
+        //{ id: 111, question: "κρυπτω", answer: "verbergen" },
+        //{ id: 112, question: "πολεμος, ὁ", answer: "oorlog" },
+        //{ id: 113, question: "φιλεω", answer: "houden van" },
+        //{ id: 114, question: "φιλος", answer: "bevriend" },
 
         // Ν
         //{ id: 115, question: "θαυμαζω", answer: "bewonderen" },
@@ -167,17 +167,17 @@
         //{ id: 133, question: "δακρυω", answer: "huilen" },
         //{ id: 134, question: "καθευδω", answer: "slapen" },
 
-        //// Ο
-        //{ id: 135, question: "αἰρω", answer: "optillen" },
-        //{ id: 136, question: "βια, ἡ", answer: "geweld" },
-        //{ id: 137, question: "ἀνδρεια, ἡ", answer: "moed" },
-        //{ id: 138, question: "ἐξω", answer: "buiten" },
-        //{ id: 139, question: "ἐκβαινω", answer: "gaan uit" },
-        //{ id: 140, question: "εἰσβαινω", answer: "ingaan" },
-        //{ id: 141, question: "μετεχω +gen", answer: "meedoen met" },
-        //{ id: 142, question: "φυγη, ἡ", answer: "vlucht" },
-        //{ id: 143, question: "ἱερος", answer: "heilig, gewijd aan" },
-        //{ id: 144, question: "οἰνος, ὁ", answer: "wijn" },
+        // Ο
+        { id: 135, question: "αἰρω", answer: "optillen" },
+        { id: 136, question: "βια, ἡ", answer: "geweld" },
+        { id: 137, question: "ἀνδρεια, ἡ", answer: "moed" },
+        { id: 138, question: "ἐξω", answer: "buiten" },
+        { id: 139, question: "ἐκβαινω", answer: "gaan uit" },
+        { id: 140, question: "εἰσβαινω", answer: "ingaan" },
+        { id: 141, question: "μετεχω +gen", answer: "meedoen met" },
+        { id: 142, question: "φυγη, ἡ", answer: "vlucht" },
+        { id: 143, question: "ἱερος", answer: "heilig" },
+        { id: 144, question: "οἰνος, ὁ", answer: "wijn" },
 
         //// Π
         //{ id: 145, question: "κινδυνος, ὁ", answer: "gevaar" },
@@ -199,7 +199,7 @@
         //{ id: 159, question: "βιος, ὁ", answer: "leven" },
         //{ id: 160, question: "ῥιπτω", answer: "gooien" },
         //{ id: 161, question: "πιπτω", answer: "vallen" },
-        //{ id: 162, question: "συμφορα, ἡ", answer: "gebeurtenis, ongeluk" },
+        //{ id: 162, question: "συμφορα, ἡ", answer: "gebeurtenis" },
         //{ id: 163, question: "φροντιζω +gen", answer: "zich zorgen maken over" },
         //{ id: 164, question: "στρατηγος, ὁ", answer: "legeraanvoerder" },
 
