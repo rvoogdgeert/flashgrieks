@@ -191,17 +191,17 @@
         //{ id: 153, question: "φωνη, ἡ", answer: "stem" },
         //{ id: 154, question: "ἀνευ +gen", answer: "zonder" },
 
-        // Ρ
-        { id: 155, question: "ἀναβαινω", answer: "omhoog gaan" },
-        { id: 156, question: "βλεπω", answer: "kijken" },
-        { id: 157, question: "μονον", answer: "slechts" },
-        { id: 158, question: "ἐμος", answer: "mijn" },
-        { id: 159, question: "βιος, ὁ", answer: "leven" },
-        { id: 160, question: "ῥιπτω", answer: "gooien" },
-        { id: 161, question: "πιπτω", answer: "vallen" },
-        { id: 162, question: "συμφορα, ἡ", answer: "gebeurtenis" },
-        { id: 163, question: "φροντιζω +gen", answer: "zich zorgen maken over" },
-        { id: 164, question: "στρατηγος, ὁ", answer: "legeraanvoerder" },
+        //// Ρ
+        //{ id: 155, question: "ἀναβαινω", answer: "omhoog gaan" },
+        //{ id: 156, question: "βλεπω", answer: "kijken" },
+        //{ id: 157, question: "μονον", answer: "slechts" },
+        //{ id: 158, question: "ἐμος", answer: "mijn" },
+        //{ id: 159, question: "βιος, ὁ", answer: "leven" },
+        //{ id: 160, question: "ῥιπτω", answer: "gooien" },
+        //{ id: 161, question: "πιπτω", answer: "vallen" },
+        //{ id: 162, question: "συμφορα, ἡ", answer: "gebeurtenis" },
+        //{ id: 163, question: "φροντιζω +gen", answer: "zich zorgen maken over" },
+        //{ id: 164, question: "στρατηγος, ὁ", answer: "legeraanvoerder" },
 
         ////// Σ
         //{ id: 165, question: "ναυτης, ὁ", answer: "zeeman" },
