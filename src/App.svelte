@@ -364,13 +364,13 @@
         { id: 302, question: "ἦλθον (inf. ἐλθεῖν)", answer: "ik kwam" },
         { id: 303, question: "τι (zonder accent!) (τινος)", answer: "iets" },
         { id: 304, question: "ἀπέθανον (inf. ἀποθανεῖν)", answer: "ik stierf" },
-        { id: 305, question: "σοῦ, σου", answer: "jouw" },
-        { id: 306, question: "τρέφω, aor. ἔθρεψα", answer: "voeden" },
-        { id: 307, question: "σύνειμι (+ dat.)", answer: "samenzijn" },
-        { id: 308, question: "ἔλαβον (inf. λαβεῖν)", answer: "ik pakte" },
-        { id: 309, question: "ταῦτα", answer: "dit, dat" },
-        { id: 310, question: "ἡ χθών (χθονός)", answer: "aarde" },
-        { id: 311, question: "κατῆλθον (inf. κατελθεῖν)", answer: "ik daalde af" },
+        //{ id: 305, question: "σοῦ, σου", answer: "jouw" },
+        //{ id: 306, question: "τρέφω, aor. ἔθρεψα", answer: "voeden" },
+        //{ id: 307, question: "σύνειμι (+ dat.)", answer: "samenzijn" },
+        //{ id: 308, question: "ἔλαβον (inf. λαβεῖν)", answer: "ik pakte" },
+        //{ id: 309, question: "ταῦτα", answer: "dit, dat" },
+        //{ id: 310, question: "ἡ χθών (χθονός)", answer: "aarde" },
+        //{ id: 311, question: "κατῆλθον (inf. κατελθεῖν)", answer: "ik daalde af" },
     ];
 
     // Create a shuffled version of the flashcards
