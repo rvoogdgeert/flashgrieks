@@ -3,17 +3,17 @@
 
     // Define flash cards data structure
     const flashCards = [
-        //// A
-        //{ id: 1, question: "οὐ, οὐκ, οὐχ", answer: "niet" },
-        //{ id: 2, question: "εἰμι", answer: "zijn" },
-        //{ id: 3, question: "ἄνθρωπος, ὁ", answer: "mens" },
-        //{ id: 4, question: "θεός, ο/ἡ", answer: "god" },
-        //{ id: 5, question: "δουλος", answer: "slaaf" },
-        //{ id: 6, question: "τί;", answer: "wat" },
-        //{ id: 7, question: "ἔχω", answer: "hebben" },
-        //{ id: 8, question: "δε, δ'", answer: "en" },
-        //{ id: 9, question: "φέρω", answer: "dragen" },
-        //{ id: 10, question: "βαίνω", answer: "gaan" },
+        // A
+        { id: 1, question: "οὐ, οὐκ, οὐχ", answer: "niet" },
+        { id: 2, question: "εἰμι", answer: "zijn" },
+        { id: 3, question: "ἄνθρωπος, ὁ", answer: "mens" },
+        { id: 4, question: "θεός, ο/ἡ", answer: "god" },
+        { id: 5, question: "δουλος", answer: "slaaf" },
+        { id: 6, question: "τί;", answer: "wat" },
+        { id: 7, question: "ἔχω", answer: "hebben" },
+        { id: 8, question: "δε, δ'", answer: "en" },
+        { id: 9, question: "φέρω", answer: "dragen" },
+        { id: 10, question: "βαίνω", answer: "gaan" },
 
         //// B
         //{ id: 11, question: "προς", answer: "naar" },
@@ -355,22 +355,22 @@
         //{ id: 295, question: "ἡ δόξα", answer: "mening" },
         //{ id: 296, question: "ἀποβαίνω", answer: "weggaan" },
 
-        // 11A
-        { id: 297, question: "εἶδον (inf. ἰδεῖν)", answer: "ik zag" },
-        { id: 298, question: "ἡ ψυχή", answer: "ziel" },
-        { id: 299, question: "εἶπον (inf. εἰπεῖν)", answer: "ik zei" },
-        { id: 300, question: "τάχα", answer: "snel" },
-        { id: 301, question: "θάπτω", answer: "begraven" },
-        { id: 302, question: "ἦλθον (inf. ἐλθεῖν)", answer: "ik kwam" },
-        { id: 303, question: "τι (zonder accent!) (τινος)", answer: "iets" },
-        { id: 304, question: "ἀπέθανον (inf. ἀποθανεῖν)", answer: "ik stierf" },
-        { id: 305, question: "σοῦ, σου", answer: "jouw" },
-        { id: 306, question: "τρέφω, aor. ἔθρεψα", answer: "voeden" },
-        { id: 307, question: "σύνειμι (+ dat.)", answer: "samenzijn" },
-        { id: 308, question: "ἔλαβον (inf. λαβεῖν)", answer: "ik pakte" },
-        { id: 309, question: "ταῦτα", answer: "dit, dat" },
-        { id: 310, question: "ἡ χθών (χθονός)", answer: "aarde" },
-        { id: 311, question: "κατῆλθον (inf. κατελθεῖν)", answer: "ik daalde af" },
+        //// 11A
+        //{ id: 297, question: "εἶδον (inf. ἰδεῖν)", answer: "ik zag" },
+        //{ id: 298, question: "ἡ ψυχή", answer: "ziel" },
+        //{ id: 299, question: "εἶπον (inf. εἰπεῖν)", answer: "ik zei" },
+        //{ id: 300, question: "τάχα", answer: "snel" },
+        //{ id: 301, question: "θάπτω", answer: "begraven" },
+        //{ id: 302, question: "ἦλθον (inf. ἐλθεῖν)", answer: "ik kwam" },
+        //{ id: 303, question: "τι (zonder accent!) (τινος)", answer: "iets" },
+        //{ id: 304, question: "ἀπέθανον (inf. ἀποθανεῖν)", answer: "ik stierf" },
+        //{ id: 305, question: "σοῦ, σου", answer: "jouw" },
+        //{ id: 306, question: "τρέφω, aor. ἔθρεψα", answer: "voeden" },
+        //{ id: 307, question: "σύνειμι (+ dat.)", answer: "samenzijn" },
+        //{ id: 308, question: "ἔλαβον (inf. λαβεῖν)", answer: "ik pakte" },
+        //{ id: 309, question: "ταῦτα", answer: "dit, dat" },
+        //{ id: 310, question: "ἡ χθών (χθονός)", answer: "aarde" },
+        //{ id: 311, question: "κατῆλθον (inf. κατελθεῖν)", answer: "ik daalde af" },
     ];
 
     // Create a shuffled version of the flashcards
